@@ -1,0 +1,29 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Sanakan (SL).tmTheme",
+	"file_exclude_patterns":
+	[
+		".DS_Store",
+		"*.sublime-workspace",
+		"*.scssc"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules",
+		"log",
+		"tmp/cache",
+		".vagrant"
+	],
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"GitGutter",
+		"Markdown",
+		"TrailingSpaces",
+		"Vintage"
+	],
+	"theme": "Boxy Nova.sublime-theme"
+}

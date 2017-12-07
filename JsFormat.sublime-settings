@@ -1,0 +1,5 @@
+{
+  "e4x": true,  //设置这个后标签的格式化才会正常
+  // jsformat options
+  "format_on_save": true,
+}
